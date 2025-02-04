@@ -1,0 +1,9 @@
+:root {
+    --branquin: rgba(242, 242, 242, 1);
+    --santral-font-family: "Santral-Bold", Helvetica;
+    --santral-font-weight: 400;
+    --santral-font-size: 24px;
+    --santral-letter-spacing: 0px;
+    --santral-line-height: normal;
+    --santral-font-style: normal;
+  }
